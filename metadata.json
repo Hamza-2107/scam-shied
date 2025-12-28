@@ -1,0 +1,7 @@
+{
+  "name": "ScamShield ",
+  "description": "A sophisticated Cyber-Forensic Psychologist and Security Analyst tool to detect fraud, analyze psychological manipulation, and protect users from scams in English, Urdu, and Roman Urdu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
